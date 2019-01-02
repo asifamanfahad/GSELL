@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSELL", "GSELL\GSELL.csproj", "{EB6D3E88-CF2E-48A0-B889-CB91D5E84BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB6D3E88-CF2E-48A0-B889-CB91D5E84BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6D3E88-CF2E-48A0-B889-CB91D5E84BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6D3E88-CF2E-48A0-B889-CB91D5E84BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6D3E88-CF2E-48A0-B889-CB91D5E84BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180DCD49-CB32-4DC2-BCA2-899FA03B91AF}
+	EndGlobalSection
+EndGlobal

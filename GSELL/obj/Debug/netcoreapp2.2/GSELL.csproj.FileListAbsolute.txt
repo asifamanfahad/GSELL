@@ -1,0 +1,14 @@
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\bin\Debug\netcoreapp2.2\GSELL.deps.json
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\bin\Debug\netcoreapp2.2\GSELL.runtimeconfig.json
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\bin\Debug\netcoreapp2.2\GSELL.runtimeconfig.dev.json
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\bin\Debug\netcoreapp2.2\GSELL.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\bin\Debug\netcoreapp2.2\GSELL.pdb
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\obj\Debug\netcoreapp2.2\GSELL.csprojAssemblyReference.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\obj\Debug\netcoreapp2.2\GSELL.csproj.CoreCompileInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\obj\Debug\netcoreapp2.2\GSELL.RazorAssemblyInfo.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\obj\Debug\netcoreapp2.2\GSELL.RazorAssemblyInfo.cs
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\obj\Debug\netcoreapp2.2\GSELL.AssemblyInfoInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\obj\Debug\netcoreapp2.2\GSELL.AssemblyInfo.cs
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\obj\Debug\netcoreapp2.2\GSELL.RazorTargetAssemblyInfo.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\obj\Debug\netcoreapp2.2\GSELL.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL\obj\Debug\netcoreapp2.2\GSELL.pdb
