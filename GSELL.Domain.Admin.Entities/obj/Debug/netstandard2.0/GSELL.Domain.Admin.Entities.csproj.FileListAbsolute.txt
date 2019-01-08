@@ -1,0 +1,8 @@
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Entities\bin\Debug\netstandard2.0\GSELL.Domain.Admin.Entities.deps.json
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Entities\bin\Debug\netstandard2.0\GSELL.Domain.Admin.Entities.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Entities\bin\Debug\netstandard2.0\GSELL.Domain.Admin.Entities.pdb
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Entities\obj\Debug\netstandard2.0\GSELL.Domain.Admin.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Entities\obj\Debug\netstandard2.0\GSELL.Domain.Admin.Entities.AssemblyInfoInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Entities\obj\Debug\netstandard2.0\GSELL.Domain.Admin.Entities.AssemblyInfo.cs
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Entities\obj\Debug\netstandard2.0\GSELL.Domain.Admin.Entities.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Entities\obj\Debug\netstandard2.0\GSELL.Domain.Admin.Entities.pdb

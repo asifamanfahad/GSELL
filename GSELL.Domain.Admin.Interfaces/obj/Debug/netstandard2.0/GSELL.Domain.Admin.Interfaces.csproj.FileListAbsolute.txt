@@ -1,0 +1,8 @@
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Interfaces\bin\Debug\netstandard2.0\GSELL.Domain.Admin.Interfaces.deps.json
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Interfaces\bin\Debug\netstandard2.0\GSELL.Domain.Admin.Interfaces.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Interfaces\bin\Debug\netstandard2.0\GSELL.Domain.Admin.Interfaces.pdb
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Interfaces\obj\Debug\netstandard2.0\GSELL.Domain.Admin.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Interfaces\obj\Debug\netstandard2.0\GSELL.Domain.Admin.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Interfaces\obj\Debug\netstandard2.0\GSELL.Domain.Admin.Interfaces.AssemblyInfo.cs
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Interfaces\obj\Debug\netstandard2.0\GSELL.Domain.Admin.Interfaces.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Domain.Admin.Interfaces\obj\Debug\netstandard2.0\GSELL.Domain.Admin.Interfaces.pdb

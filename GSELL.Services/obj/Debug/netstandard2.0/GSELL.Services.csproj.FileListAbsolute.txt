@@ -1,0 +1,8 @@
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Services\bin\Debug\netstandard2.0\GSELL.Services.deps.json
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Services\bin\Debug\netstandard2.0\GSELL.Services.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Services\bin\Debug\netstandard2.0\GSELL.Services.pdb
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Services\obj\Debug\netstandard2.0\GSELL.Services.csproj.CoreCompileInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Services\obj\Debug\netstandard2.0\GSELL.Services.AssemblyInfoInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Services\obj\Debug\netstandard2.0\GSELL.Services.AssemblyInfo.cs
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Services\obj\Debug\netstandard2.0\GSELL.Services.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Services\obj\Debug\netstandard2.0\GSELL.Services.pdb

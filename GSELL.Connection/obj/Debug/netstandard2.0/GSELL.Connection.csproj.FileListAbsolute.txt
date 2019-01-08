@@ -1,0 +1,8 @@
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Connection\bin\Debug\netstandard2.0\GSELL.Connection.deps.json
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Connection\bin\Debug\netstandard2.0\GSELL.Connection.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Connection\bin\Debug\netstandard2.0\GSELL.Connection.pdb
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Connection\obj\Debug\netstandard2.0\GSELL.Connection.csproj.CoreCompileInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Connection\obj\Debug\netstandard2.0\GSELL.Connection.AssemblyInfoInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Connection\obj\Debug\netstandard2.0\GSELL.Connection.AssemblyInfo.cs
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Connection\obj\Debug\netstandard2.0\GSELL.Connection.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Connection\obj\Debug\netstandard2.0\GSELL.Connection.pdb

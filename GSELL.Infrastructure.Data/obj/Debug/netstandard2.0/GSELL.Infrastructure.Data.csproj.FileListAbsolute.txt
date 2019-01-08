@@ -1,0 +1,8 @@
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Infrastructure.Data\bin\Debug\netstandard2.0\GSELL.Infrastructure.Data.deps.json
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Infrastructure.Data\bin\Debug\netstandard2.0\GSELL.Infrastructure.Data.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Infrastructure.Data\bin\Debug\netstandard2.0\GSELL.Infrastructure.Data.pdb
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Infrastructure.Data\obj\Debug\netstandard2.0\GSELL.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Infrastructure.Data\obj\Debug\netstandard2.0\GSELL.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Infrastructure.Data\obj\Debug\netstandard2.0\GSELL.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Infrastructure.Data\obj\Debug\netstandard2.0\GSELL.Infrastructure.Data.dll
+C:\Users\Asif\Documents\Visual Studio 2017\Projects\GSELL\GSELL.Infrastructure.Data\obj\Debug\netstandard2.0\GSELL.Infrastructure.Data.pdb
